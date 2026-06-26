@@ -1,0 +1,5 @@
+#Tutto il repo — fallback
+*                     @ronsiOrg/team-global
+/progetto1/           @ronsiOrg/team-1
+/progetto2/           @ronsiOrg/team-2
+/progetto3/           @ronsiOrg/team-1 @ronsiOrg/team-2
